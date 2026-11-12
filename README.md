@@ -1,11 +1,13 @@
-# Quinze Integração — releases
+# IntegraQ — releases
 
-Instaladores da Quinze Integração (integração do ERP Eagle com a IMendes),
-baixados pela atualização automática do próprio aplicativo. Sem código-fonte.
+Instaladores do IntegraQ (integração do ERP Eagle com a IMendes), baixados
+pela atualização automática do próprio aplicativo. Sem código-fonte. Até a
+versão 1.1.4, o aplicativo se chamava Quinze Integração.
 
 Cada release `v<versão>` traz:
 
-- `QuinzeIntegracao-Setup-<versão>.exe` — o instalador;
+- `IntegraQ-Setup-<versão>.exe` — o instalador (até a 1.1.4,
+  `QuinzeIntegracao-Setup-<versão>.exe`);
 - `atualizacao.json` — versão, tamanho e SHA-256 do instalador;
 - `atualizacao.json.sig` — assinatura da Quinze Automação Comercial.
 
